@@ -8,7 +8,8 @@ function _drawChange() {
 
 }
 
-export class Treat {
+export class ChangeController {
+
   constructor() {
     console.log('change controller loaded')
   }
