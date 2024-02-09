@@ -10,7 +10,7 @@ class ObservableAppState extends EventEmitter {
 
   Change = 0
 
-  name = ''
+
   treats = [
     new Treats({ name: 'berry', cost: '1' }),
     new Treats({ name: 'chip', cost: '2' })
